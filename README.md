@@ -12,5 +12,6 @@ However, with the introduction of Twitter API 1.1, it has required external apps
 
 I've replaced the Tweet fetching functionality with just a bunch of static dummy Tweets, retaining the "scrolling" function.
 
+[Demo Page](http://w-general.github.io/twitter-scroller/)
 
 Any takers to update this would be appreciated. Or if one day I found use for this script on my site, I would probably be more compelled to update it.
